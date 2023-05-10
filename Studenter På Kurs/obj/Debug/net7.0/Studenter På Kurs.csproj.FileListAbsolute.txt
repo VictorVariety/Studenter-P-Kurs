@@ -1,0 +1,15 @@
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\bin\Debug\net7.0\Studenter På Kurs.exe
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\bin\Debug\net7.0\Studenter På Kurs.deps.json
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\bin\Debug\net7.0\Studenter På Kurs.runtimeconfig.json
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\bin\Debug\net7.0\Studenter På Kurs.dll
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\bin\Debug\net7.0\Studenter På Kurs.pdb
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.AssemblyInfo.cs
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.dll
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\refint\Studenter På Kurs.dll
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.pdb
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\Studenter På Kurs.genruntimeconfig.cache
+C:\Users\victo\Desktop\Virtual Studio\Studenter På Kurs\Studenter På Kurs\obj\Debug\net7.0\ref\Studenter På Kurs.dll
