@@ -6,9 +6,7 @@ public class Program
     static void Main(string[] args)
     {
         var students = new List<Studenter>();
-        students.Add(new Studenter("Jonas", 18, "JavaScript", 1));
-        students.Add(new Studenter("Geir", 19, "JavaScript", 1));
-        students.Add(new Studenter("Hans", 28, "C#", 2));
+        CreateDummyAccounts(students);
 
         while (check)
         {
@@ -18,11 +16,18 @@ public class Program
             if (students.Any(student => student.KursId == kursId)) FindStudents(students, kursId);
             else
             {
-                Console.WriteLine("Kurset finnes ikke, prøv igjen");
+                Console.WriteLine("Kurset finnes ikke , prøv igjen");
                 continue;
 
             }
         }
+    }
+
+    private static void CreateDummyAccounts(List<Studenter> students)
+    {
+        students.Add(new Studenter("Jonas", 18, "JavaScript", 1));
+        students.Add(new Studenter("Geir", 19, "JavaScript", 1));
+        students.Add(new Studenter("Hans", 28, "C#", 2));
     }
 
     private static void FindStudents(List<Studenter> students, int kursId)
